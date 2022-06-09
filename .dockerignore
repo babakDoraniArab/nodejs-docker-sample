@@ -3,3 +3,4 @@ Dockerfile
 .dockerignore
 .gitignore
 .git
+.vscode
